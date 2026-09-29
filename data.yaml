@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Fire', 'Smoke']
+
+roboflow:
+  workspace: object-detection-yxxz2
+  project: fire-smoke-zjqzo
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/object-detection-yxxz2/fire-smoke-zjqzo/dataset/1
