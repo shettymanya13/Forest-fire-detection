@@ -5,12 +5,7 @@ import cv2
 # DATASET PATH
 # ============================================================
 
-DATASET = (
-    Path.home()
-    / "Downloads"
-    / "Fire-Smoke.v1-fire-smoke.yolov8"
-)
-
+DATASET = Path(__file__).resolve().parent
 # YOLO classes
 CLASS_NAMES = {
     0: "Fire",
