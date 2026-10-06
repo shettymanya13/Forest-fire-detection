@@ -8,7 +8,7 @@ Forest fires can spread rapidly and cause significant damage to ecosystems, wild
 
 This project aims to develop an AI-based system that can automatically detect:
 
-* 🔥 Fire
+* 🔥 Fire wow
 * 💨 Smoke
 * 🌲 Non-fire/background scenes
 
